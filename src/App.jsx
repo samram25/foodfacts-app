@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import SearchBar from './components/SearchBar'
 import FoodList from './components/FoodList'
+// FoodFacts App PR submission
 
 function App() {
   const [results, setResults] = useState([])
